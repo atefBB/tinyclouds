@@ -1,13 +1,13 @@
 ![](../posts/screenshot.png)
 
-# Ryan's Blog
+# Atef's Blog
 
 Deployments in less than 10 seconds.
 
 To get it running:
 
 ```sh
-git clone git@github.com:ry/tinyclouds.git blog
+git clone git@github.com:atefBB/tinyclouds.git blog
 cd blog
 deno task dev
 ```
